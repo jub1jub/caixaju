@@ -1,17 +1,17 @@
 {
-  "short_name": "Caixa Ju",
-  "name": "Sistema de Caixa Ju",
+  "short_name": "Calculadora Ju",
+  "name": "Calculadora Ju",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2331/2331941.png",
+      "src": "icon.png",
       "type": "image/png",
-      "sizes": "512x512",
+      "sizes": "1024x1024",
       "purpose": "any maskable"
     }
   ],
   "start_url": "/caixaju/index.html",
-  "background_color": "#2563eb",
+  "background_color": "#ff0000",
   "display": "standalone",
   "scope": "/caixaju/",
-  "theme_color": "#2563eb"
+  "theme_color": "#ff0000"
 }
